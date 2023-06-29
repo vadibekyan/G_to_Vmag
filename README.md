@@ -1,2 +1,2 @@
 # G_to_Vmag
-Determines intrinsic Vmag from the ovserved Gmag
+Determines intrinsic Visual (V) magnitude from the observed Gagia (G) magnitude
